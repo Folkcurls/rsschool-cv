@@ -15,6 +15,9 @@ I'm _18_ years old and trying to find my place in this big and thrilling world! 
 5. Adobe Photohop, Adobe Illustrator
 * ### Code Example: 
 ```
+function multiply(a, b){
+ return a * b
+}
 ```
 * ### Work Expirience: 
 **None, for now!**
