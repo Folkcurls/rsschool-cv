@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Folkcurls.github.io/rsschool-cv/cv
