@@ -27,4 +27,4 @@ I'm _18_ years old and trying to find my place in this big and thrilling world! 
 * ### Languages:
 1. Russian - _native_
 2. **English - B2**
-3. Polish - _basic_, B1 
+3. Polish - _basic_, B1
