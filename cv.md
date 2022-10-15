@@ -12,9 +12,7 @@ I'm _19_ years old and trying to find my place in this big and thrilling world! 
 2. Git
 3. C++ (_in progress..._)
 4. Adobe Photohop, Adobe Illustrator
-* ### Code Example: 
-```
-```
+
 * ### Work Expirience: 
 **None, for now!**
 
